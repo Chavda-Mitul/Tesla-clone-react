@@ -1,0 +1,19 @@
+.left-btn, .right-btn{
+    position: absolute;
+    top: 450px;
+    left: 30%;
+    width: 240px;
+    padding: 10px;
+    text-align: center;
+    background-color: rgba(0, 0, 0, 0.795);
+    color: white;
+    border-radius: 6px;
+    font-size:16px;
+    cursor: pointer;
+}
+.right-btn{
+    color: black;
+    left: 52%;
+    background-color: rgba(255, 255, 255, 0.87);
+}
+
